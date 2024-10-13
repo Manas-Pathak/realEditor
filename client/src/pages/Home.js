@@ -72,12 +72,12 @@ const Home = () => {
           </span>
         </div>
       </div>
-      <footer>
-        <h4>
-          Build with ❤️ by Coding Enthusiast;
-          <a href="https://github.com/Manas-Pathak">Manas Pathak</a>
-        </h4>
-      </footer>
+      // <footer>
+      //   <h4>
+      //     Build with ❤️ by Coding Enthusiast;
+      //     <a href="https://github.com/Manas-Pathak">Manas Pathak</a>
+      //   </h4>
+      // </footer>
     </div>
   );
 };
