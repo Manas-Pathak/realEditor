@@ -13,7 +13,7 @@
   "version": "1.0.0",
   "description": "server",
   "main": "server.js",
-  "repository": "https://github.com/Utkarsh9026/coding-ethusiast-real-editor.git",
-  "author": "Utkarsh9026 <utkarshshahi9935@gamil.com>",
+  "repository": "https://github.com/Manas-Pathak/realEditor.git",
+  "author": "Manas-Pathak <pathakmanas111@gamil.com>"
   "license": "MIT"
 }
