@@ -14,6 +14,6 @@
   "description": "server",
   "main": "server.js",
   "repository": "https://github.com/Manas-Pathak/realEditor.git",
-  "author": "Manas-Pathak <pathakmanas111@gamil.com>"
+  "author": "Manas-Pathak <pathakmanas111@gamil.com>",
   "license": "MIT"
 }
